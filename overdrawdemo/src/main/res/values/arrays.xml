@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet">
+        <item>A a</item>
+        <item>B b</item>
+        <item>C c</item>
+        <item>D d</item>
+        <item>E e</item>
+        <item>F f</item>
+        <item>G g</item>
+        <item>H h</item>
+        <item>I i</item>
+        <item>J j</item>
+        <item>K k</item>
+        <item>L l</item>
+        <item>M m</item>
+        <item>N n</item>
+        <item>O o</item>
+        <item>P p</item>
+        <item>Q q</item>
+        <item>R r</item>
+        <item>S s</item>
+        <item>T t</item>
+        <item>U u</item>
+        <item>V v</item>
+        <item>W w</item>
+        <item>X x</item>
+        <item>Y y</item>
+        <item>Z z</item>
+    </string-array>
+</resources>
