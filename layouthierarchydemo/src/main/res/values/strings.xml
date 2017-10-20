@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">LayoutHierarchyDemo</string>
+
+    <!--MainActivity-->
+    <string name="main_btn_relative_layout_demo">RelativeLayout demo</string>
+    <string name="main_btn_merge_demo">merge demo</string>
+
+    <!--RelativeLayoutDemoActivity-->
+    <string name="relative_title">RelativeLayoutDemo</string>
+    <string name="relative_song_title">剑魄琴心(Live) - live</string>
+    <string name="relative_artist_name">骆集益</string>
+
+    <!--MergeDemoActivity-->
+    <string name="merge_title">MergeDemo</string>
+
+    <!--Common layout-->
+    <string name="common_tv_text_view">TextView</string>
+    <string name="common_btn_button">Button</string>
 </resources>
