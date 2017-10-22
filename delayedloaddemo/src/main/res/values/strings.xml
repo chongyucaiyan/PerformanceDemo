@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DelayedLoadDemo</string>
+
+    <!--MainActivity-->
+    <string name="main_load_view">加载视图</string>
+    <string name="main_greeting">Hello World!</string>
 </resources>
