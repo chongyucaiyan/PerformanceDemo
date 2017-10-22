@@ -1,1 +1,1 @@
-include ':app', ':overdrawdemo', ':layouthierarchydemo'
+include ':app', ':overdrawdemo', ':layouthierarchydemo', ':delayedloaddemo'
