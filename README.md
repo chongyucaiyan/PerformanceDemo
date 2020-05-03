@@ -6,3 +6,5 @@ Android performance demo.
 [Android性能优化之优化布局层次结构](https://blog.csdn.net/u012317510/article/details/78307554)
 
 [Android性能优化之延迟加载视图](https://blog.csdn.net/u012317510/article/details/78314630)
+
+[Android性能优化工具之StrictMode](https://blog.csdn.net/u012317510/article/details/78747612)
